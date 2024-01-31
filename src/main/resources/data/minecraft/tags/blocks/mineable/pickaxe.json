@@ -2,6 +2,51 @@
     "replace": false,
     "values": [
         "extrablocks:white_concrete_slab",
-        "extrablocks:white_concrete_stairs"
+        "extrablocks:white_concrete_stairs",
+
+        "extrablocks:orange_concrete_slab",
+        "extrablocks:orange_concrete_stairs",
+
+        "extrablocks:magenta_concrete_slab",
+        "extrablocks:magenta_concrete_stairs",
+
+        "extrablocks:light_blue_concrete_slab",
+        "extrablocks:light_blue_concrete_stairs",
+
+        "extrablocks:yellow_concrete_slab",
+        "extrablocks:yellow_concrete_stairs",
+
+        "extrablocks:lime_concrete_slab",
+        "extrablocks:lime_concrete_stairs",
+
+        "extrablocks:pink_concrete_slab",
+        "extrablocks:pink_concrete_stairs",
+
+        "extrablocks:gray_concrete_slab",
+        "extrablocks:gray_concrete_stairs",
+
+        "extrablocks:light_gray_concrete_slab",
+        "extrablocks:light_gray_concrete_stairs",
+
+        "extrablocks:cyan_concrete_slab",
+        "extrablocks:cyan_concrete_stairs",
+
+        "extrablocks:pruple_concrete_slab",
+        "extrablocks:pruple_concrete_stairs",
+
+        "extrablocks:blue_concrete_slab",
+        "extrablocks:blue_concrete_stairs",
+
+        "extrablocks:brown_concrete_slab",
+        "extrablocks:brown_concrete_stairs",
+
+        "extrablocks:green_concrete_slab",
+        "extrablocks:green_concrete_stairs",
+
+        "extrablocks:red_concrete_slab",
+        "extrablocks:red_concrete_stairs",
+
+        "extrablocks:black_concrete_slab",
+        "extrablocks:black_concrete_stairs"
     ]
 }

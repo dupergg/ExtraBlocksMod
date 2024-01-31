@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "mcshot",
+    "key": {
+      "#": {
+        "item": "minecraft:purple_concrete"
+      }
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "result": {
+      "count": 4,
+      "item": "extrablocks:purple_concrete_stairs"
+    }
+  }

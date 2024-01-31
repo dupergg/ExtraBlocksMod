@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "mcshot",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:yellow_concrete"
+        }
+    },
+    "result": {
+        "item": "extrablocks:yellow_concrete_slab",
+        "count": 3
+    }
+}

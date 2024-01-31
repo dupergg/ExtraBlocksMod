@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "mcshot",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:pink_concrete"
+        }
+    },
+    "result": {
+        "item": "extrablocks:pink_concrete_slab",
+        "count": 3
+    }
+}
