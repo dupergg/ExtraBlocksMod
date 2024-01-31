@@ -2,5 +2,8 @@
   "item.extrablocks.mayo": "'Mayo'",
   "item.extrablocks.mcshot": "McShot",
 
+  "block.extrablocks.white_concrete_slab": "White Concrete Slab",
+  "block.extrablocks.white_concrete_stairs": "White Concrete Stairs",
+
   "itemGroup.extrablocks.mcshot": "Extra Blocks"
 }

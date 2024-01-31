@@ -1,5 +1,6 @@
 package duper.extrablocks;
 
+import duper.extrablocks.block.ModBlocks;
 import duper.extrablocks.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -14,5 +15,6 @@ public class ExtraBlocks implements ModInitializer {
 	public void onInitialize() {
 
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

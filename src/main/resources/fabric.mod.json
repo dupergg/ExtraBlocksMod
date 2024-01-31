@@ -20,6 +20,9 @@
 		],
 		"client": [
 			"duper.extrablocks.ExtraBlocksClient"
+		],
+		"fabric-datagen": [
+			"duper.extrablocks.datagen.ModDataGeneration"
 		]
 	},
 	"mixins": [
