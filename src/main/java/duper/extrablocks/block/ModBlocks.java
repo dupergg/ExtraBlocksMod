@@ -22,109 +22,109 @@ public class ModBlocks {
     public static final Block WHITE_CONCRETE_SLAB = registerBlock("white_concrete_slab", 
         new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block ORANGE_CONCRETE_STAIRS = registerBlock("white_concrete_stairs", 
+    public static final Block ORANGE_CONCRETE_STAIRS = registerBlock("orange_concrete_stairs", 
         new ModStairsBlock(Blocks.ORANGE_CONCRETE.getDefaultState(),
         FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block ORANGE_CONCRETE_SLAB = registerBlock("white_concrete_slab", 
+    public static final Block ORANGE_CONCRETE_SLAB = registerBlock("orange_concrete_slab", 
         new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block MAGENTA_CONCRETE_STAIRS = registerBlock("white_concrete_stairs", 
+    public static final Block MAGENTA_CONCRETE_STAIRS = registerBlock("magenta_concrete_stairs", 
         new ModStairsBlock(Blocks.MAGENTA_CONCRETE.getDefaultState(),
         FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block MAGENTA_CONCRETE_SLAB = registerBlock("white_concrete_slab", 
+    public static final Block MAGENTA_CONCRETE_SLAB = registerBlock("magenta_concrete_slab", 
         new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block LIGHT_BLUE_CONCRETE_STAIRS = registerBlock("white_concrete_stairs", 
+    public static final Block LIGHT_BLUE_CONCRETE_STAIRS = registerBlock("light_blue_concrete_stairs", 
         new ModStairsBlock(Blocks.LIGHT_BLUE_CONCRETE.getDefaultState(),
         FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block LIGHT_BLUE_CONCRETE_SLAB = registerBlock("white_concrete_slab", 
+    public static final Block LIGHT_BLUE_CONCRETE_SLAB = registerBlock("light_blue_concrete_slab", 
         new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block YELLOW_CONCRETE_STAIRS = registerBlock("white_concrete_stairs", 
+    public static final Block YELLOW_CONCRETE_STAIRS = registerBlock("yellow_concrete_stairs", 
         new ModStairsBlock(Blocks.YELLOW_CONCRETE.getDefaultState(),
         FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block YELLOW_CONCRETE_SLAB = registerBlock("white_concrete_slab", 
+    public static final Block YELLOW_CONCRETE_SLAB = registerBlock("yellow_concrete_slab", 
         new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block LIME_CONCRETE_STAIRS = registerBlock("white_concrete_stairs", 
+    public static final Block LIME_CONCRETE_STAIRS = registerBlock("lime_concrete_stairs", 
         new ModStairsBlock(Blocks.LIME_CONCRETE.getDefaultState(),
         FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block LIME_CONCRETE_SLAB = registerBlock("white_concrete_slab", 
+    public static final Block LIME_CONCRETE_SLAB = registerBlock("lime_concrete_slab", 
         new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block PINK_CONCRETE_STAIRS = registerBlock("white_concrete_stairs", 
+    public static final Block PINK_CONCRETE_STAIRS = registerBlock("pink_concrete_stairs", 
         new ModStairsBlock(Blocks.PINK_CONCRETE.getDefaultState(),
         FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block PINK_CONCRETE_SLAB = registerBlock("white_concrete_slab", 
+    public static final Block PINK_CONCRETE_SLAB = registerBlock("pink_concrete_slab", 
         new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block GRAY_CONCRETE_STAIRS = registerBlock("white_concrete_stairs", 
+    public static final Block GRAY_CONCRETE_STAIRS = registerBlock("gray_concrete_stairs", 
         new ModStairsBlock(Blocks.GRAY_CONCRETE.getDefaultState(),
         FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block GRAY_CONCRETE_SLAB = registerBlock("white_concrete_slab", 
+    public static final Block GRAY_CONCRETE_SLAB = registerBlock("gray_concrete_slab", 
         new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block LIGHT_GRAY_CONCRETE_STAIRS = registerBlock("white_concrete_stairs", 
+    public static final Block LIGHT_GRAY_CONCRETE_STAIRS = registerBlock("light_gray_concrete_stairs", 
         new ModStairsBlock(Blocks.LIGHT_GRAY_CONCRETE.getDefaultState(),
         FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block LIGHT_GRAY_CONCRETE_SLAB = registerBlock("white_concrete_slab", 
+    public static final Block LIGHT_GRAY_CONCRETE_SLAB = registerBlock("light_gray_concrete_slab", 
         new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block CYAN_CONCRETE_STAIRS = registerBlock("white_concrete_stairs", 
+    public static final Block CYAN_CONCRETE_STAIRS = registerBlock("cyan_concrete_stairs", 
         new ModStairsBlock(Blocks.CYAN_CONCRETE.getDefaultState(),
         FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block CYAN_CONCRETE_SLAB = registerBlock("white_concrete_slab", 
+    public static final Block CYAN_CONCRETE_SLAB = registerBlock("cyan_concrete_slab", 
         new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block PURPLE_CONCRETE_STAIRS = registerBlock("white_concrete_stairs", 
+    public static final Block PURPLE_CONCRETE_STAIRS = registerBlock("purple_concrete_stairs", 
         new ModStairsBlock(Blocks.PURPLE_CONCRETE.getDefaultState(),
         FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block PURPLE_CONCRETE_SLAB = registerBlock("white_concrete_slab", 
+    public static final Block PURPLE_CONCRETE_SLAB = registerBlock("purple_concrete_slab", 
         new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block BLUE_CONCRETE_STAIRS = registerBlock("white_concrete_stairs", 
+    public static final Block BLUE_CONCRETE_STAIRS = registerBlock("blue_concrete_stairs", 
         new ModStairsBlock(Blocks.BLUE_CONCRETE.getDefaultState(),
         FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block BLUE_CONCRETE_SLAB = registerBlock("white_concrete_slab", 
+    public static final Block BLUE_CONCRETE_SLAB = registerBlock("blue_concrete_slab", 
         new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block BROWN_CONCRETE_STAIRS = registerBlock("white_concrete_stairs", 
+    public static final Block BROWN_CONCRETE_STAIRS = registerBlock("brown_concrete_stairs", 
         new ModStairsBlock(Blocks.BROWN_CONCRETE.getDefaultState(),
         FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block BROWN_CONCRETE_SLAB = registerBlock("white_concrete_slab", 
+    public static final Block BROWN_CONCRETE_SLAB = registerBlock("brown_concrete_slab", 
         new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block GREEN_CONCRETE_STAIRS = registerBlock("white_concrete_stairs", 
+    public static final Block GREEN_CONCRETE_STAIRS = registerBlock("green_concrete_stairs", 
         new ModStairsBlock(Blocks.GREEN_CONCRETE.getDefaultState(),
         FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block GREEN_CONCRETE_SLAB = registerBlock("white_concrete_slab", 
+    public static final Block GREEN_CONCRETE_SLAB = registerBlock("green_concrete_slab", 
         new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block RED_CONCRETE_STAIRS = registerBlock("white_concrete_stairs", 
+    public static final Block RED_CONCRETE_STAIRS = registerBlock("red_concrete_stairs", 
         new ModStairsBlock(Blocks.RED_CONCRETE.getDefaultState(),
         FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block RED_CONCRETE_SLAB = registerBlock("white_concrete_slab", 
+    public static final Block RED_CONCRETE_SLAB = registerBlock("red_concrete_slab", 
         new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block BLACK_CONCRETE_STAIRS = registerBlock("white_concrete_stairs", 
+    public static final Block BLACK_CONCRETE_STAIRS = registerBlock("black_concrete_stairs", 
         new ModStairsBlock(Blocks.BLACK_CONCRETE.getDefaultState(),
         FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
-    public static final Block BLACK_CONCRETE_SLAB = registerBlock("white_concrete_slab", 
+    public static final Block BLACK_CONCRETE_SLAB = registerBlock("black_concrete_slab", 
         new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.8f).requiresTool()), ModItemGroup.MCSHOT);
 
     private static Block registerBlock(String name, Block block, ItemGroup tab) {
